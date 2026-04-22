@@ -6,7 +6,10 @@ description         : >-
                       environmental research. 
                       
                       This site highlights my research, projects, and professional experience.
-                      
+<a class="btn btn-primary btn-lg mt-3" href="/assets/docs/SWhittier_Resume_REU_GEOf" target="_blank">
+  View Resume
+</a>     
+         
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : SaraWhittier/SaraWhittier.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
@@ -29,7 +32,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Sara Whittier
-  image             : data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=
+  image             : /assets/images/profile.jpg
 # dribbble          : your_username
   email             : SaraWhittier03@gmail.com
   github            : SaraWhittier
